@@ -1,0 +1,23 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "Build a notes app as a frontend, single page web app.",
+  "main": "assert.js",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vish-Mayer/Notes-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vish-Mayer/Notes-App/issues"
+  },
+  "homepage": "https://github.com/Vish-Mayer/Notes-App#readme"
+}
