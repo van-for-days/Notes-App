@@ -6,7 +6,7 @@
   NoteList.prototype.createNote = function(text) {
     var note = new Note(text);
     this.notes.push(note);
-    return note
+    return note 
   }
 
   NoteList.prototype.returnNotes = function(text) {
